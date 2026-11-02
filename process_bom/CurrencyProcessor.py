@@ -230,4 +230,3 @@ class CurrencyProcessor:
             os.remove(filepath)
             
 
-
